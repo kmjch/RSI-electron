@@ -6,7 +6,7 @@
   "dependencies": {},
   "devDependencies": {
     "electron-builder": "^7.15.2",
-    "electron": "^1.4.4"
+    "electron": "^9.1.0"
   },
   "private": true,
   "scripts": {
